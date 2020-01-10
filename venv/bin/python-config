@@ -1,4 +1,4 @@
-#!/cshome/yipu1/CMPUT404/Lab1/venv/bin/python
+#!/cshome/yipu1/CMPUT404/Lab1-2/CMPUT404-Lab1/venv/bin/python
 
 import sys
 import getopt
